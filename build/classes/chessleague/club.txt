@@ -1,0 +1,8 @@
+Club One,2 Club Street, 2014-03-11
+Club Two,4 Club Avenue, 2014-06-16
+Club Three,67 Club Avenue, 2012-03-16
+Club Four,91 Club Avenue, 2015-09-21
+Club Five,4 Club Avenue, 2011-07-15
+Club Six,12 Club Avenue, 2012-01-22
+Club Seven,45 Club Avenue, 2013-02-20
+Club Eight,11 Club Avenue, 2009-05-03

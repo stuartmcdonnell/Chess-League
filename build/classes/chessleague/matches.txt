@@ -1,0 +1,24 @@
+1,1960-09-10,Chesstival,1-0,Club Seven,Club Two
+4,2012-10-09,Chesstival,0-1,Club Seven,Club Three
+3,1958-10-31,ChessRus,1-1,Club Six,Club Three
+2,1996-04-25,Chesstival,1-0,Club Two,Club Five
+2,1998-03-31,Club Chess,0-0,Club Five,Club Seven
+3,2010-03-13,Club Chess,1-0,Club Eight,Club Two
+4,2016-03-16,ChessRus,0-1,Club Two,Club Seven
+3,1960-04-24,ChessRus,0-0,Club One,Club Four
+1,2014-06-09,Club Chess,1-1,Club Eight,Club Six
+2,1972-11-11,Botanic Chess,0-1,Club Six,Club Five
+1,1968-11-25,Botanic Chess,1-1,Club Three,Club Seven
+3,1971-02-23,Botanic Chess,0-1,Club Seven,Club Five
+2,1956-12-19,ChessRus,0-1,Club One,Club Three
+2,1981-11-26,ChessRus,0-1,Club Three,Club Three
+4,1982-07-26,Botanic Chess,0-1,Club Five,Club Four
+4,1952-10-12,Botanic Chess,1-0,Club One,Club Four
+4,1991-11-05,ChessRus,1-1,Club Seven,Club Three
+4,1998-08-15,Botanic Chess,0-0,Club Five,Club Five
+2,1995-05-07,Botanic Chess,1-1,Club One,Club Eight
+2,1959-09-08,Chesstival,0-1,Club Five,Club Five
+4,2003-05-05,ChessRus,1-1,Club Six,Club Seven
+3,1993-02-28,ChessRus,0-1,Club Seven,Club Six
+1,2012-04-01,ChessRus,0-0,Club Four,Club One
+1,1953-06-07,Botanic Chess,0-1,Club Five,Club Five
