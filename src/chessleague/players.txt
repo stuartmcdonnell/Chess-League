@@ -1,0 +1,100 @@
+Armando,2000/08/10,24,Grandmaster,Club Two
+Chase,1976/06/02,2719,International Master,Club Five
+Forrest,1954/09/19,1758,Grandmaster,Club Eight
+Nicholas,2016/07/13,179,International Master,Club Eight
+Nash,1968/06/20,319,International Master,Club Five
+Keegan,1976/12/16,604,Grandmaster,Club Three
+Troy,1975/08/02,1993,International Master,Club Seven
+Griffin,1951/02/10,694,Grandmaster,Club Three
+Keefe,1977/08/15,2237,Grandmaster,Club Eight
+Kareem,1996/10/03,1683,International Master,Club Six
+Jamal,2000/09/24,241,Grandmaster,Club One
+Joel,1963/10/09,2824,Grandmaster,Club Three
+Camden,1997/10/05,885,International Master,Club Seven
+Jared,2001/03/04,275,Grandmaster,Club Eight
+Carl,2002/10/27,1768,International Master,Club Six
+Grant,1965/10/29,1449,International Master,Club Four
+Malcolm,1970/02/12,1633,Grandmaster,Club One
+Jameson,2000/12/06,2481,International Master,Club Seven
+Rogan,1986/08/05,424,International Master,Club Two
+Chaim,1982/07/29,307,International Master,Club Six
+Wesley,1955/08/03,2862,International Master,Club Eight
+Jerry,1954/12/27,111,International Master,Club Eight
+Daquan,1986/06/19,608,Grandmaster,Club One
+Fletcher,2005/06/09,1608,Grandmaster,Club One
+Palmer,1996/06/08,1436,International Master,Club Four
+Malcolm,1988/01/31,1787,Grandmaster,Club Seven
+Zeus,1984/08/06,2541,Grandmaster,Club Four
+Keefe,1960/07/26,912,Grandmaster,Club Eight
+Oliver,1965/08/30,2819,Grandmaster,Club Three
+Colby,1984/03/12,2070,International Master,Club Six
+Galvin,1986/04/15,2643,Grandmaster,Club Seven
+Kadeem,1971/11/13,1885,International Master,Club Four
+Denton,1992/02/11,2785,Grandmaster,Club Two
+Louis,2011/04/03,769,Grandmaster,Club Five
+Theodore,1986/04/22,1543,Grandmaster,Club One
+Hayden,1958/10/06,1790,Grandmaster,Club Seven
+Quamar,1983/10/28,1948,International Master,Club Two
+Anthony,1956/09/19,958,Grandmaster,Club Six
+Stuart,1995/06/09,2226,International Master,Club One
+Ashton,1993/09/17,168,International Master,Club Seven
+Cameron,1966/07/10,2951,Grandmaster,Club Five
+Thaddeus,1980/01/14,1011,Grandmaster,Club Six
+Julian,2011/07/20,2373,International Master,Club Seven
+Emery,1955/08/29,482,International Master,Club Three
+Akeem,1959/02/22,1936,International Master,Club Six
+Ali,1971/03/04,259,International Master,Club Seven
+Magee,1961/04/14,1341,Grandmaster,Club Five
+Hamilton,1955/08/30,693,Grandmaster,Club Six
+Felix,2003/03/10,1339,Grandmaster,Club Two
+Nissim,1986/09/30,2130,Grandmaster,Club Seven
+Nicholas,2014/03/23,296,Grandmaster,Club Five
+Lee,2013/09/07,2356,Grandmaster,Club Eight
+Roth,1995/10/25,305,Grandmaster,Club Five
+Eric,1981/06/24,552,Grandmaster,Club One
+Hashim,1962/02/20,2588,International Master,Club Four
+Mohammad,2007/07/24,491,Grandmaster,Club One
+Cyrus,1957/04/27,877,International Master,Club Eight
+Hammett,1964/09/15,2524,International Master,Club Eight
+Avram,1970/01/22,296,International Master,Club Four
+Wang,1955/09/01,1620,Grandmaster,Club Three
+Ashton,1957/06/14,2623,International Master,Club Five
+Erich,1980/01/18,921,International Master,Club Five
+Solomon,2000/08/05,2718,Grandmaster,Club Eight
+Solomon,1960/04/20,803,Grandmaster,Club Eight
+Kasimir,2002/03/07,1617,International Master,Club Six
+Chaney,1987/06/05,1507,Grandmaster,Club Eight
+Thomas,1999/06/11,1258,Grandmaster,Club One
+Brennan,1981/07/24,2419,Grandmaster,Club Four
+Craig,1963/09/20,396,Grandmaster,Club Four
+Channing,2004/01/01,1573,Grandmaster,Club Four
+Richard,1956/04/21,1567,Grandmaster,Club Four
+Cain,1984/02/28,1487,International Master,Club Four
+Caesar,1999/01/03,1017,International Master,Club Six
+Hayden,1994/09/20,983,International Master,Club Seven
+Dorian,1951/12/01,2475,International Master,Club Seven
+Eric,2007/11/01,1677,Grandmaster,Club Seven
+Armando,2015/11/17,1888,Grandmaster,Club Six
+Guy,1966/05/13,474,Grandmaster,Club Two
+Garrett,1997/04/09,2879,International Master,Club Three
+Troy,1959/11/11,1519,Grandmaster,Club Eight
+Hamish,1997/09/12,1157,Grandmaster,Club Three
+Camden,2000/04/28,2832,Grandmaster,Club One
+Benjamin,1962/12/08,1717,International Master,Club Seven
+Knox,1962/04/20,1974,Grandmaster,Club Four
+Wyatt,1992/03/17,2202,International Master,Club Seven
+Carter,2010/11/17,2054,Grandmaster,Club One
+Mohammad,2011/05/01,762,International Master,Club Seven
+Seth,2001/10/14,1898,Grandmaster,Club One
+Hilel,1955/04/19,2321,International Master,Club Eight
+Aristotle,2005/01/31,1375,International Master,Club Two
+Stone,2007/11/30,1808,International Master,Club Two
+Arden,2000/03/17,961,Grandmaster,Club Four
+Anthony,2009/05/12,2798,Grandmaster,Club Two
+Elmo,1969/10/20,76,Grandmaster,Club Two
+Walter,1991/11/12,339,Grandmaster,Club Five
+Brett,1997/12/16,1214,Grandmaster,Club Two
+Kareem,2001/04/05,1745,Grandmaster,Club Seven
+Keith,1952/07/08,817,Grandmaster,Club Eight
+Zeus,1979/05/13,1381,International Master,Club Two
+Warren,1993/06/30,907,International Master,Club Two
